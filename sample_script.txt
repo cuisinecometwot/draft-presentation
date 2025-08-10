@@ -1,0 +1,23 @@
+=== SCRIPT TRÌNH CHIẾU MẪU ===
+
+Chào mừng đến với buổi trình chiếu!
+
+1. Giới thiệu
+   - Tên dự án
+   - Mục tiêu
+   - Phạm vi
+
+2. Nội dung chính
+   - Tính năng 1
+   - Tính năng 2
+   - Tính năng 3
+
+3. Kết luận
+   - Tóm tắt
+   - Hướng phát triển
+   - Cảm ơn
+
+=== HƯỚNG DẪN SỬ DỤNG ===
+- Sử dụng phím mũi tên để cuộn
+- Home/End để về đầu/cuối
+- Tùy chỉnh font và màu sắc
